@@ -1,4 +1,4 @@
-<h1>How to Create VMs in Azure</h1>
+<h1>How to Create a VM in Azure</h1>
 This tutorial will supplement the "create VMs step" in all of my other projects. There will be slight variations in the VMs based on the project but the overall process is the same.
 
 <h1>Steps</h1>
