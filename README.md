@@ -11,7 +11,8 @@ Navigate to Azure homepage, I created a free account with available credits
 <br />
 
 <p>
-<img width="1914" height="913" alt="image" src="https://github.com/user-attachments/assets/02a0fbfb-fb21-4c98-8ed6-879822eb24bb" />
+<img width="1916" height="914" alt="image" src="https://github.com/user-attachments/assets/3cbc6e35-485e-47bb-ae7b-f8d437bc8022" />
+
 </p>
 <p>
 Navigate to the Virtual Machines page on the homepage.
