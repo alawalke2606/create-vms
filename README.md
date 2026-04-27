@@ -48,3 +48,72 @@ In the Instance details section, name the VM and select the region.(Note that th
 <p>
 In the Instance details section, name the VM and select the region.(Note that the resource group and VM need to be in the same region). Select the OS image for the VM.
 </p>
+
+<p>
+<img width="785" height="734" alt="image" src="https://github.com/user-attachments/assets/688352fb-7143-4c3e-9882-b747099099ba" />
+</p>
+<p>
+In the Instance details section, select the size, create a username and password, and check the licensing agreement option.
+</p>
+
+<p>
+<img width="1905" height="868" alt="image" src="https://github.com/user-attachments/assets/3fc9ac31-49d3-4e37-9150-b79a71346216" />
+</p>
+<p>
+Scroll back to the top of the page and select the "Networking" tab.
+</p>
+
+<p>
+<img width="1912" height="870" alt="image" src="https://github.com/user-attachments/assets/89246d00-e402-42ad-8322-862cc0128405" />
+
+</p>
+<p>
+In the Networking tab, the virtual network and subnet should automatically populate. For Public IP, select "create new", and name the public IP. Select "Review + create".
+</p>
+
+<p>
+<img width="1905" height="866" alt="image" src="https://github.com/user-attachments/assets/51ca200f-6084-4012-961b-f424f054046f" />
+</p>
+<p>
+In the "Review + create" tab, select create. Azure will do a validation check to make sure the VM requirements are valid.
+</p>
+
+<p>
+<img width="1905" height="866" alt="image" src="https://github.com/user-attachments/assets/51ca200f-6084-4012-961b-f424f054046f" />
+</p>
+<p>
+In the "Review + create" tab, select create. Azure will do a validation check to make sure the VM requirements are valid.
+</p>
+
+<p>
+<img width="1913" height="910" alt="image" src="https://github.com/user-attachments/assets/0072da66-4cba-43c7-877d-788676746059" />
+</p>
+<p>
+Navigate back to the Virtual Machines tab from Azure sidebar to see that the VM was created and given a random public IP address.
+</p>
+
+<p>
+<img width="406" height="243" alt="image" src="https://github.com/user-attachments/assets/43d72107-5552-4784-a6f5-d3187c837e58" />
+</p>
+<p>
+Navigate to Remote Desktop Connection and type in the public IP address from the VM-demo machine and select connect.
+</p>
+
+<p>
+<img width="452" height="583" alt="image" src="https://github.com/user-attachments/assets/bc5832cc-b163-4b84-8704-c712f52f2a4d" />
+</p>
+<p>
+Enter username and password that was used when creating the VM and select OK.
+</p>
+
+<p>
+<img width="1915" height="1079" alt="image" src="https://github.com/user-attachments/assets/f4a9bccd-d0a9-4d2c-b577-a7c5aeff7013" />
+</p>
+<p>
+Successfully logged into the VM with the credentials "labuser".
+</p>
+
+
+
+
+
